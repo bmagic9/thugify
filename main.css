@@ -1,0 +1,35 @@
+body{
+    background-color:#8e99d2;
+    text-align: center;
+    margin-top:30%;
+    
+}
+
+#title{
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+}
+
+
+#button{
+    color:#ffffff;
+    font-size:20px;
+    background:#3cb0fd;
+      text-decoration:none;
+      border:none
+      ;
+    
+}
+
+#button:hover{
+     background-image: linear-gradient(to bottom,#3cb0fd,#3498db);
+     text-decoration:none;
+     background:#3cb0fe;
+     
+}
+
+
+#output{
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+}
